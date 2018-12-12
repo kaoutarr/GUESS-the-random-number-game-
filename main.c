@@ -22,8 +22,8 @@ int level ()
 
 int main (int argc, char *argv[])
 {
-  int continuerPartie =0;
-  if (continuerPartie = 1)
+  int continuerPartie =1;
+  while (continuerPartie == 1)
 
    {
 
